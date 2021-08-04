@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/Mathieu-45/Mathieu-45/blob/master/img/cover.png)
+![Cover](img/cover.png)
 <!--
 **Mathieu-45/Mathieu-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
